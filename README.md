@@ -8,10 +8,6 @@ başlayarak birer artışla otomatik olarak atanıyor. Geriye kalan diğer veril
 durumuna göre karakter sayısı atadık örneğin TC Kimlik numarası için 11 karakterli veri tipi 
 atadık.
 
-### Müşteri Tablosu Verileri
-
-![resim2](https://github.com/user-attachments/assets/dc9b382f-1e71-42c8-bfcc-934fbc0e255b)
-
 ### Araba Tablosu Veri Tipleri
 
 ![resim3](https://github.com/user-attachments/assets/c7685a48-7b34-42b9-8b6e-f134a2a69453)
